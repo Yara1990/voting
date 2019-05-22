@@ -1,26 +1,26 @@
 # Decentralized Voting Application
 
+## Dependencies
 
-**Dependencies**
+NPM,
+Truffle,
+Ganache,
+Metamask,
 
-Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
+Commands to run the Dapp
 
-NPM: https://nodejs.org
-Truffle: https://github.com/trufflesuite/truffle
-Ganache: http://truffleframework.com/ganache/
-Metamask: https://metamask.io/
-
-**Run Project**
-
+```javascript
+$ npm install
 $ truffle migrate --reset
-$ npm run dev Visit this URL in your browser: http://localhost:3000
+$ npm run dev 
+```
+Visit this URL in your browser: http://localhost:3000
+
+More info in the /Document/voting.pdf
 
 
-More infor in the /Document/voting.pdf
 
 
 
-
-
-
+By:
 hargobindgupta.me
